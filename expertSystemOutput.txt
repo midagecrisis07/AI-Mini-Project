@@ -1,0 +1,108 @@
+C:\Users\ASHISH\Desktop\LP2_Submission>C:\Progra~1\swipl\bin\swipl
+Welcome to SWI-Prolog (threaded, 64 bits, version 9.2.3)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit https://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+1 ?- [expert].
+true.
+
+2 ?- input.
+Does the patient have Flu? no.
+Does the patient have Yellowish eyes and skin? |: no.
+Does the patient have Dark color urine? |: no.
+Does the patient have Pale bowel movement? |: no.
+Does the patient have Fatigue? |: no.
+Does the patient have Vomitting? |: no.
+Does the patient have Fever? |: no.
+Does the patient have Pain in joints? |: no.
+Does the patient have Weakness? |: no.
+Does the patient have Stomach Pain? |: no.
+Does the patient have Red eyes? |: yes.
+Does the patient have Rashes? |: yes.
+Does the patient have Itching in skin? |: yes.
+Does the patient have Sneezing? |: no.
+Does the patient have Swollen eyes? |: no.
+Does the patient have Wheezing? |: yes.
+Does the patient have Runny nose? |: no.
+Does the patient have Stuffy nose? |: no.
+
+The patient may suffer from allergy
+
+Put eye drops, have healthy sleep, do not strain your eyes.
+Clean your skin and keep drinking water.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Drink warm water. Do gargles with salt water.
+true .
+
+3 ?- input.
+Does the patient have Flu? no.
+Does the patient have Yellowish eyes and skin? |: yes.
+Does the patient have Dark color urine? |: yes.
+Does the patient have Pale bowel movement? |: yes.
+Does the patient have Fatigue? |: no.
+Does the patient have Vomitting? |: no
+.
+Does the patient have Fever? |: no.
+Does the patient have Pain in joints? |: no.
+Does the patient have Weakness? |: no.
+Does the patient have Stomach Pain? |: no.
+Does the patient have Red eyes? |: yes.
+Does the patient have Rashes? |: no.
+Does the patient have Itching in skin? |: no.
+Does the patient have Sneezing? |: no.
+Does the patient have Swollen eyes? |: no.
+Does the patient have Wheezing? |: no.
+Does the patient have Runny nose? |: no.
+Does the patient have Stuffy nose? |: no.
+
+The patient may suffer from hepatitis_b
+
+Put eye drops, have healthy sleep, do not strain your eyes.
+Drink lots of water, juices and eat fruits. Avoid alcohol consumption.
+Drink lots of water and exercise regularly.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Clean your skin and keep drinking water.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Drink warm water. Do gargles with salt water.
+true .
+
+3 ?- input.
+Does the patient have Flu? no.
+Does the patient have Yellowish eyes and skin? |: no.
+Does the patient have Dark color urine? |: no.
+Does the patient have Pale bowel movement? |: no.
+Does the patient have Fatigue? |: yes.
+Does the patient have Vomitting? |: yes.
+Does the patient have Fever? |: yes.
+Does the patient have Pain in joints? |: no.
+Does the patient have Weakness? |: no.
+Does the patient have Stomach Pain? |: no.
+Does the patient have Red eyes? |: no.
+Does the patient have Rashes? |: no.
+Does the patient have Itching in skin? |: no.
+Does the patient have Sneezing? |: no.
+Does the patient have Swollen eyes? |: no.
+Does the patient have Wheezing? |: no.
+Does the patient have Runny nose? |: yes.
+Does the patient have Stuffy nose? |: yes.
+
+The patient may suffer from hepatitis_b
+
+Put eye drops, have healthy sleep, do not strain your eyes.
+Drink lots of water, juices and eat fruits. Avoid alcohol consumption.
+Drink lots of water and exercise regularly.
+Drink lots of water, juices and eat fruits.
+Drink salt and water.
+Put hot water cloth on head and take crocin.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Clean your skin and keep drinking water.
+Put eye drops, have healthy sleep, do not strain your eyes.
+Drink warm water. Do gargles with salt water.
+Keep away from dusty environment. Dont dring cold water
+Use inhaler. Take steam therapy
+true .
